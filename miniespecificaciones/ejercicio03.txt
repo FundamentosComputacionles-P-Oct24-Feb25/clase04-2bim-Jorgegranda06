@@ -20,3 +20,4 @@
 // 30
 // 110
 //
+// en este codigo existen dod procedimientos porque no retorna ningun valor en cambio en las funciomes el valor debe retornar
